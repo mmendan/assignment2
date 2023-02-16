@@ -2,5 +2,6 @@
 
 int main() {
     std::cout << "Hello, world!" << std::endl;
-    return 0;
+std::cout << "New Line Added" << std::endl;    
+return 0;
 }
